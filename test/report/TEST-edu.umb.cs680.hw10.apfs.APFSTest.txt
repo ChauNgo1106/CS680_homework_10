@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw10.apfs.APFSTest
+Test: checking_number_of_directories_and_files_and_links_of_applications() took 17 milli sec(s)
+Test: finding_file_named_a() took 2 milli sec(s)
+Test: finding_file_named_d() took 0 milli sec(s)
+Test: getting_files_of_root() took 1 milli sec(s)
+Test: checking_type_of_all_visitor_variables() took 2 milli sec(s)
+Test: checking_number_of_directories_and_files_and_links_of_root() took 1 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 52 milli sec(s)
